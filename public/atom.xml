@@ -4,7 +4,7 @@
   <title><![CDATA[BCubs Test blog]]></title>
   <link href="http://bc-blog.herokuapp.com/atom.xml" rel="self"/>
   <link href="http://bc-blog.herokuapp.com/"/>
-  <updated>2012-11-18T20:30:22+00:00</updated>
+  <updated>2012-11-18T20:55:05+00:00</updated>
   <id>http://bc-blog.herokuapp.com/</id>
   <author>
     <name><![CDATA[Some Guy]]></name>
@@ -14,20 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[testing again]]></title>
+    <title type="html"><![CDATA[Come and join in!]]></title>
     <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again/"/>
     <updated>2012-11-18T20:21:00+00:00</updated>
     <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again</id>
-    <content type="html"><![CDATA[<p>Come and join in!</p>
-
-<!-- more -->
-
-
-<p><img src="http://www.mikeweb.plus.com/Sections/Cubs/Cubs_files/image001.jpg" alt="Cubs image" /></p>
-
-<h3>When do Cubs meet?</h3>
+    <content type="html"><![CDATA[<h3>When do Cubs meet?</h3>
 
 <p>We meet on a Thursday evening from 7:00 to 8:30 pm.</p>
+
+<p><img src="http://www.mikeweb.plus.com/Sections/Cubs/Cubs_files/image001.jpg" alt="Cubs image" /></p>
 
 <h3>How old do I have to be to become a Cub ?</h3>
 
@@ -35,7 +30,7 @@
 
 <h3>What will I do each week?</h3>
 
-<p>Each term the leaders ask the cubs which badges they would like to do and build a programme around that. At the pack meetings we start with Grand Howl then play a mixture of games and do badge work. We also go out and play wide games, go hiking or orienteering or other outdoor activities. Sometimes there are weekend activities, such as district football or chess competitions or cub camps.</p>
+<p>Each term the leaders ask the cubs which badges they would like to do and build a programme around that. <!-- more --> At the pack meetings we start with Grand Howl then play a mixture of games and do badge work. We also go out and play wide games, go hiking or orienteering or other outdoor activities. Sometimes there are weekend activities, such as district football or chess competitions or cub camps.</p>
 
 <h3>How is Cubs organised?</h3>
 
@@ -63,13 +58,13 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Testing blog]]></title>
+    <title type="html"><![CDATA[JOTI 2012]]></title>
     <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing/"/>
     <updated>2012-11-18T10:42:00+00:00</updated>
     <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing</id>
-    <content type="html"><![CDATA[<h2>Hello There!</h2>
+    <content type="html"><![CDATA[<p>This is a test post shamelessly stealing content from the JOTI stuff.</p>
 
-<p>This is a test post</p>
+<p>The World Scout Jamboree On The Internet (JOTI) is an international Scout Meeting on the Internet which takes places every year on the third weekend of october. This is an official event of the World Organization of the Scout Movement.</p>
 
 <!-- more -->
 

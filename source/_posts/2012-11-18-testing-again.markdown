@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "testing again"
+title: "Come and join in!"
 date: 2012-11-18 20:21
 comments: true
 categories: 
 ---
-Come and join in!
-<!-- more -->
+### When do Cubs meet?
+We meet on a Thursday evening from 7:00 to 8:30 pm.
+
 
 ![Cubs image](http://www.mikeweb.plus.com/Sections/Cubs/Cubs_files/image001.jpg)
 
-### When do Cubs meet?
-We meet on a Thursday evening from 7:00 to 8:30 pm.
 
 ### How old do I have to be to become a Cub ?
 You need to be between 8 and 10 years old to become a cub.
 
 ### What will I do each week?
-Each term the leaders ask the cubs which badges they would like to do and build a programme around that. At the pack meetings we start with Grand Howl then play a mixture of games and do badge work. We also go out and play wide games, go hiking or orienteering or other outdoor activities. Sometimes there are weekend activities, such as district football or chess competitions or cub camps.
+Each term the leaders ask the cubs which badges they would like to do and build a programme around that. <!-- more --> At the pack meetings we start with Grand Howl then play a mixture of games and do badge work. We also go out and play wide games, go hiking or orienteering or other outdoor activities. Sometimes there are weekend activities, such as district football or chess competitions or cub camps.
 
 ### How is Cubs organised?
 The Cub Scout Leader is called Akele and the Assistant Cub Scout Leader is Bagheera. We are helped by a young leader and parent helpers.
