@@ -1,26 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[BCubs Test blog]]></title>
   <link href="http://bc-blog.herokuapp.com/atom.xml" rel="self"/>
   <link href="http://bc-blog.herokuapp.com/"/>
-  <updated>2012-11-18T10:50:02+00:00</updated>
+  <updated>2012-11-18T20:30:22+00:00</updated>
   <id>http://bc-blog.herokuapp.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Some Guy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[testing]]></title>
+    <title type="html"><![CDATA[testing again]]></title>
+    <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again/"/>
+    <updated>2012-11-18T20:21:00+00:00</updated>
+    <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again</id>
+    <content type="html"><![CDATA[<p>Come and join in!</p>
+
+<!-- more -->
+
+
+<p><img src="http://www.mikeweb.plus.com/Sections/Cubs/Cubs_files/image001.jpg" alt="Cubs image" /></p>
+
+<h3>When do Cubs meet?</h3>
+
+<p>We meet on a Thursday evening from 7:00 to 8:30 pm.</p>
+
+<h3>How old do I have to be to become a Cub ?</h3>
+
+<p>You need to be between 8 and 10 years old to become a cub.</p>
+
+<h3>What will I do each week?</h3>
+
+<p>Each term the leaders ask the cubs which badges they would like to do and build a programme around that. At the pack meetings we start with Grand Howl then play a mixture of games and do badge work. We also go out and play wide games, go hiking or orienteering or other outdoor activities. Sometimes there are weekend activities, such as district football or chess competitions or cub camps.</p>
+
+<h3>How is Cubs organised?</h3>
+
+<p>The Cub Scout Leader is called Akele and the Assistant Cub Scout Leader is Bagheera. We are helped by a young leader and parent helpers.</p>
+
+<p>The pack is split into sixes and each six is led by a <em>Sixer</em> (an older cub). Our sixes are Blue, Red, Green and Yellow and when you come to cubs you will be put in one of the Sixes.</p>
+
+<h3>Are there any rules?</h3>
+
+<p>We know you don’t want to feel like you are at school and we want you to have lots of fun but, to ensure that everyone has fun, we ask you to follow a code of conduct:</p>
+
+<ul>
+<li>Cubs stand quietly and alert at Grand Howl.</li>
+<li>Respect the leaders and helpers and when they are speaking cubs should be quiet and listening</li>
+<li>There is no fighting or bad language. If there is a dispute talk to a leader and we will sort it out.</li>
+<li>Respect the Den and the furniture and equipment.</li>
+<li>Respect your fellow cubs and their belongings</li>
+</ul>
+
+
+<h3>What uniform will I have to wear?</h3>
+
+<p>Full uniform is a green Cub sweatshirt and blue Scout activity trousers. You will be given a yellow and brown scarf when you get invested.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Testing blog]]></title>
     <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing/"/>
     <updated>2012-11-18T10:42:00+00:00</updated>
     <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing</id>
-    <content type="html"><![CDATA[<h1>Hello There</h1>
+    <content type="html"><![CDATA[<h2>Hello There!</h2>
 
 <p>This is a test post</p>
+
+<!-- more -->
+
+
+<p>Our JOTI weblog has been posted <a href="http://www.jotajoti.org/weblog/view.php?orderby=scoutgroup_name&amp;ordersort=&amp;group=421&amp;sa=">here</a></p>
+
+<p><img src="https://lh6.googleusercontent.com/-8T0D67Pi0oE/UIPL419PNKI/AAAAAAAAABw/8HOXP4uIw80/s800/DSCF0386.JPG" alt="JOTI" /></p>
 ]]></content>
   </entry>
   

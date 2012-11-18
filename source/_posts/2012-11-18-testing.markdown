@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "testing"
+title: "Testing blog"
 date: 2012-11-18 10:42
 comments: true
 categories: 
 ---
-Hello There
-===========
+Hello There!
+-----------
 
 This is a test post
+<!-- more -->
+
+Our JOTI weblog has been posted [here](http://www.jotajoti.org/weblog/view.php?orderby=scoutgroup_name&ordersort=&group=421&sa=)
+
+![JOTI](https://lh6.googleusercontent.com/-8T0D67Pi0oE/UIPL419PNKI/AAAAAAAAABw/8HOXP4uIw80/s800/DSCF0386.JPG)
