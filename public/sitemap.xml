@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://bc-blog.herokuapp.com/blog/2012/11/18/testing/</loc>
+        <lastmod>2012-11-18T10:43:28+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bc-blog.herokuapp.com/blog/archives/</loc>
+        <lastmod>2012-11-18T10:43:28+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bc-blog.herokuapp.com/</loc>
+        <lastmod>2012-11-18T10:43:28+00:00</lastmod>
+    </url>
+</urlset>
