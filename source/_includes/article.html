@@ -13,6 +13,9 @@
         {% endif %}
       </p>
     {% endunless %}
+    {% if post.fish %}
+    <p>{{post.fish}}</p>
+    {% endif %}
   </header>
 {% endunless %}
 {% if index %}

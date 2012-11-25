@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Come and join in!"
+title: "I'm a cubs post!"
 date: 2012-11-18 20:21
 comments: true
 categories: cubs 
+section: cubs
 ---
 
 ### When do Cubs meet?

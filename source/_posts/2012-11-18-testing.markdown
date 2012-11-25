@@ -3,7 +3,8 @@ layout: post
 title: "JOTI 2012"
 date: 2012-11-18 10:42
 comments: true
-categories: 
+categories: cubs
+fish: wibble
 ---
 This is a test post shamelessly stealing content from the JOTI stuff. 
 
