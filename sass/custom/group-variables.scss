@@ -1,7 +1,6 @@
 
 
-@import "scout-branding";
-@import "../bootstrap/bootstrap";
+@import "scouts-variables";
 
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
@@ -47,6 +46,7 @@ $carousel-height: 350px;
     .carousel-caption .lead {
       margin: 0;
       line-height: 1.25;
+      color: $headingsColor;
       text-shadow: 0 1px 1px rgba(0,0,0,.4);
     }
     .carousel-caption .btn {

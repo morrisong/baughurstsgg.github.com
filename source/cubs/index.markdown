@@ -5,4 +5,4 @@ section: cubs
 
 ### Welcome to Baughurst Cub Scouts
 
-Ipsum wotsome
+_TODO_ Write this page
