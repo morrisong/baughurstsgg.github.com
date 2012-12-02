@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cubs | Baughurst Scout and Guide Group]]></title>
-  <link href="http://bc-blog.herokuapp.com/blog/categories/cubs/atom.xml" rel="self"/>
-  <link href="http://bc-blog.herokuapp.com/"/>
-  <updated>2012-11-29T20:47:01+00:00</updated>
-  <id>http://bc-blog.herokuapp.com/</id>
+  <link href="http://baughurstsgg.github.com/blog/categories/cubs/atom.xml" rel="self"/>
+  <link href="http://baughurstsgg.github.com/"/>
+  <updated>2012-12-02T18:09:56+00:00</updated>
+  <id>http://baughurstsgg.github.com/</id>
   <author>
     <name><![CDATA[Baughurst Scout and Guide Group]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[I'm a cubs post!]]></title>
-    <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing-subfolder/"/>
+    <link href="http://baughurstsgg.github.com/blog/2012/11/18/testing-subfolder/"/>
     <updated>2012-11-18T20:21:00+00:00</updated>
-    <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-subfolder</id>
+    <id>http://baughurstsgg.github.com/blog/2012/11/18/testing-subfolder</id>
     <content type="html"><![CDATA[<h3>When do Cubs meet?</h3>
 
 <p>We meet on a Thursday evening from 7:00 to 8:30 pm.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Come and join in!]]></title>
-    <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again/"/>
+    <link href="http://baughurstsgg.github.com/blog/2012/11/18/testing-again/"/>
     <updated>2012-11-18T20:21:00+00:00</updated>
-    <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again</id>
+    <id>http://baughurstsgg.github.com/blog/2012/11/18/testing-again</id>
     <content type="html"><![CDATA[<h3>When do Cubs meet?</h3>
 
 <p>We meet on a Thursday evening from 7:00 to 8:30 pm.</p>
@@ -103,9 +103,9 @@
   
   <entry>
     <title type="html"><![CDATA[JOTI 2012]]></title>
-    <link href="http://bc-blog.herokuapp.com/blog/2012/11/18/testing/"/>
+    <link href="http://baughurstsgg.github.com/blog/2012/11/18/testing/"/>
     <updated>2012-11-18T10:42:00+00:00</updated>
-    <id>http://bc-blog.herokuapp.com/blog/2012/11/18/testing</id>
+    <id>http://baughurstsgg.github.com/blog/2012/11/18/testing</id>
     <content type="html"><![CDATA[<p>This is a test post shamelessly stealing content from the JOTI stuff.</p>
 
 <p>The World Scout Jamboree On The Internet (JOTI) is an international Scout Meeting on the Internet which takes places every year on the third weekend of october. This is an official event of the World Organization of the Scout Movement.</p>
