@@ -93,7 +93,7 @@ Activities included a rope course, grass-sledging, archery, fire-lighting, and w
   <small><cite title="Source Title">Viv Salem, Group Guide Leader</cite></small>
 </blockquote>
 
-We had a long wait for the event, as we were rained off twice.  Third time lucky!</p>
+We had a longer wait than planned for our camp.  Twice we were forced to cancel the event as torrential rain swamped the camp site.  Doggedly we waited out the terrible weather of 2012.  Third time lucky!</p>
 </article>
 
 <hr class="featurette-divider">
