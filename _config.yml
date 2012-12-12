@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bc-blog.herokuapp.com
+url: http://baughurstsgg.github.com
 title: Baughurst Scout and Guide Group
 subtitle: Testing the octopress publishing framework
 author: Baughurst Scout and Guide Group
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: baughurstscouts
-twitter_tweet_count: 7
+twitter_tweet_count: 5
 twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false

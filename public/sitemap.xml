@@ -1,55 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://bc-blog.herokuapp.com/blog/2012/11/18/testing/</loc>
-        <lastmod>2012-11-23T20:37:19+00:00</lastmod>
+        <loc>http://baughurstsgg.github.com/blog/2012/03/25/cubs-football-success/</loc>
+        <lastmod>2012-12-12T11:09:53+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-again/</loc>
-        <lastmod>2012-11-23T18:52:48+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://bc-blog.herokuapp.com/blog/2012/11/18/testing-subfolder/</loc>
+        <loc>http://baughurstsgg.github.com/blog/2012/11/18/testing-subfolder/</loc>
         <lastmod>2012-11-23T20:45:40+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/about.html</loc>
-        <lastmod>2012-11-29T07:33:23+00:00</lastmod>
+        <loc>http://baughurstsgg.github.com/about.html</loc>
+        <lastmod>2012-12-12T12:25:04+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/beavers/</loc>
+        <loc>http://baughurstsgg.github.com/beavers/</loc>
         <lastmod>2012-11-29T07:23:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/blog/archives/</loc>
-        <lastmod>2012-11-23T20:45:40+00:00</lastmod>
+        <loc>http://baughurstsgg.github.com/blog/archives/</loc>
+        <lastmod>2012-12-12T11:09:53+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/brownies/</loc>
+        <loc>http://baughurstsgg.github.com/brownies/</loc>
         <lastmod>2012-11-29T07:24:30+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/contact.html</loc>
-        <lastmod>2012-11-29T07:34:06+00:00</lastmod>
+        <loc>http://baughurstsgg.github.com/contact.html</loc>
+        <lastmod>2012-12-12T12:20:12+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/cubs/</loc>
+        <loc>http://baughurstsgg.github.com/cubs/</loc>
         <lastmod>2012-11-29T07:23:36+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/guides/</loc>
+        <loc>http://baughurstsgg.github.com/guides/</loc>
         <lastmod>2012-11-29T07:25:33+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/</loc>
-        <lastmod>2012-11-29T07:39:18+00:00</lastmod>
+        <loc>http://baughurstsgg.github.com/</loc>
+        <lastmod>2012-12-12T11:09:53+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/rainbows/</loc>
+        <loc>http://baughurstsgg.github.com/rainbows/</loc>
         <lastmod>2012-11-29T07:25:54+00:00</lastmod>
     </url>
     <url>
-        <loc>http://bc-blog.herokuapp.com/scouts/</loc>
+        <loc>http://baughurstsgg.github.com/scouts/</loc>
         <lastmod>2012-11-29T07:26:10+00:00</lastmod>
     </url>
 </urlset>
