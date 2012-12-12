@@ -1,6 +1,9 @@
 ---
 layout: page
 section: cubs
+title: "Welcome to Baughurst Cub Scouts!"
+comments: false
+sharing: false
 ---
 
 <section class="row-fluid"><section class="span6">

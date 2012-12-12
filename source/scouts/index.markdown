@@ -4,6 +4,7 @@ title: "Scouts - Join the adventure!"
 section: scouts
 comments: false
 sharing: false
+
 ---
 
 <section class="row-fluid"><section class="span6">
