@@ -5,7 +5,7 @@ section: cubs
 
 <section class="row-fluid"><section class="span6">
 
-![Cubs image](images/cubs/logo.jpg)
+![Cubs image](/images/cubs/logo.jpg)
 
 </section><article class="span6">
 
@@ -42,13 +42,13 @@ Each term the leaders ask the cubs which badges they would like to do and build 
 
 </article><section class="span4">
 
-![Cubs image](images/cubs/swing2.jpg)
+![Cubs image](/images/cubs/swing2.jpg)
 
 </section></section>
 
 <section class="row-fluid"><section class="span4">
 
-![Cubs image](images/cubs/swing.jpg)
+![Cubs image](/images/cubs/swing.jpg)
 
 </section><article class="span8">
 
@@ -75,7 +75,7 @@ We know you don’t want to feel like you are at school and we want you to have 
 
 
 ### What uniform will I have to wear?
-Full uniform is a green Cub sweatshirt and blue Scout activity trousers. You will be given a yellow and brown scarf when you get invested.  You can purchase your uniform from the [Basingstoke scout shop](www.geocities.com/basingstoke4thscouts/info/BasingstokeScoutShop.htm) or directly from [Scout Shops]()
+Full uniform is a green Cub sweatshirt and blue Scout activity trousers. You will be given a yellow and brown scarf when you get invested.  You can purchase your uniform from the [Basingstoke scout shop](www.geocities.com/basingstoke4thscouts/info/BasingstokeScoutShop.htm) or directly from [Scout Shops](http://shop.scouts.org.uk)
 
 ### What badges are there?
 There are two main types of badges; Challenge and Activity. You can see the badges and what you have to do to get them at http://www.scoutbase.org.uk/library/hqdocs/badges/cub-index.htm. Some you can work to at home and others with the pack.
