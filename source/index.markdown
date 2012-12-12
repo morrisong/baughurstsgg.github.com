@@ -58,9 +58,9 @@ The beaver, cub and scout groups welcome both boys and girls from 6 to 14 years.
 
 The Baughurst scout group is part of the [Silchester District](http://www.silchester-scouts.org.uk), which is in turn part of the [Hampshire County](http://www.scouts-hants.org.uk).
 
-<a class="btn" href="Scouts">Scouts &raquo;</a>
-<a class="btn" href="Cubs">Cubs &raquo;</a>
-<a class="btn" href="Beavers">Beavers &raquo;</a>
+<a class="btn" href="scouts">Scouts &raquo;</a>
+<a class="btn" href="cubs">Cubs &raquo;</a>
+<a class="btn" href="beavers">Beavers &raquo;</a>
   </article><!-- /.span4 -->
   <article class="span4">
 
@@ -68,9 +68,9 @@ The Baughurst scout group is part of the [Silchester District](http://www.silche
 
 The rainbow, brownie and guide groups welcome girls from 5 to 14 years.  
 
-<a class="btn" href="Guides">Guides &raquo;</a>
-<a class="btn" href="Brownies">Brownies &raquo;</a>
-<a class="btn" href="Rainbows">Rainbows &raquo;</a>
+<a class="btn" href="guides">Guides &raquo;</a>
+<a class="btn" href="brownies">Brownies &raquo;</a>
+<a class="btn" href="rainbows">Rainbows &raquo;</a>
 </article><!-- /.span4 -->
 <article class="span4">
 ## Help us raise funds!
@@ -79,7 +79,7 @@ The rainbow, brownie and guide groups welcome girls from 5 to 14 years.
 
 Support us for **FREE** when you do your shopping on the web!
 This is **absolutely FREE for you** but raises much needed funds for the group.  
-<a class="btn" href="#">Find out more &raquo;</a>
+<a class="btn" href="easy-fundraising">Find out more &raquo;</a>
   
 </article><!-- /.span4 -->
 </section><!-- /.row -->
