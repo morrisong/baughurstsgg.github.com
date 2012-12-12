@@ -18,22 +18,12 @@ layout: default
       </div>
     </div>
     <div class="item">
-      <img src="images/scouts/scouts-karting.jpg" alt="">
+      <img src="images/beavers/lots-of-beavers.jpg" alt="">
       <div class="container">
-        <div class="carousel-caption">
-          <h1>Another example headline.</h1>
-          <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-          <a class="btn btn-large btn-primary" href="#">Learn more</a>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/scouts/scouts-karting.jpg" alt="">
-      <div class="container">
-        <div class="carousel-caption">
-          <h1>One more for good measure.</h1>
-          <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-          <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
+        <div class="carousel-caption scouts">
+          <h1 class="scouts">Friends and Fun!</h1>
+          <p class="lead scouts">The Beaver Scout Motto</p>
+          <a class="btn btn-large btn-primary" href="beavers">Join the beavers...</a>
         </div>
       </div>
     </div>
@@ -89,27 +79,26 @@ This is **absolutely FREE for you** but raises much needed funds for the group.
 
 <hr class="featurette-divider">
 
-<div class="featurette">
-  <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-chrome.png">
-  <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-  <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-</div>
+<article class="featurette">
+  <img class="featurette-image pull-right" src="images/group-camp.jpg">
+  <h2 class="featurette-heading">Joint camp <span class="muted"> celebrates our 20th anniversary!</span></h2>
+  <p class="lead">All the sections gathered for a weekend of fun!</p>
+
+The group celebrated a milestone year with a weekend camp at Thirtover. Rainbows, Beavers, Brownies, Cubs, Guides and Scouts gathered to celebrate 20 years of being a joint group.
+
+Activities included a rope course, grass-sledging, archery, fire-lighting, and wood or soap-carving before the day ended with a barbecue and camp fire. The whole group had a brilliant time. 
+
+<blockquote>
+  <p>We wanted to celebrate the achievement of being together as a joint Scout and Guide group for 20 years and we think we are fairly unique.</p>
+  <small><cite title="Source Title">Viv Salem, Group Guide Leader</cite></small>
+</blockquote>
+
+We had a long wait for the event, as we were rained off twice.  Third time lucky!</p>
+</article>
 
 <hr class="featurette-divider">
 
-<div class="featurette">
-  <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
-  <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
-  <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-</div>
 
-<hr class="featurette-divider">
-
-<div class="featurette">
-  <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-safari.png">
-  <h2 class="featurette-heading">And lastly, this one. <span class="muted">Checkmate.</span></h2>
-  <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-</div>
 
 <hr class="featurette-divider">
 
