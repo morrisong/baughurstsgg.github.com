@@ -41,7 +41,7 @@ You can also raise funds for us every time you search the Web!
 
 Use easysearch every time you search the Web and 50% of the fees paid by the advertising sponsors will be given to Baughurst Scout and Guide Group. Make just 10 searches a day with easysearch instead of Google or any other search engine and you could raise around £20 a year - or more - for us. It's that easy!
 
-Visit [http://baughurstsgg.easysearch.org.uk/] and start raising funds at no cost to you!
+Visit [our search page](http://baughurstsgg.easysearch.org.uk/) and start raising funds at no cost to you!
 
  
 **Don’t keep this to yourselves – tell all your friends and families!**
