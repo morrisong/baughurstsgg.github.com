@@ -8,7 +8,7 @@ sharing: false
 
 <section class="row-fluid"><section class="span6">
 
-![Join beavers!](/images/scouts/baughurst-logo.jpg)
+![Join the adventure!](/images/scouts/baughurst-logo.jpg)
 
 </section><article class="span6">
 

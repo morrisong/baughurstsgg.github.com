@@ -22,8 +22,18 @@ layout: default
       <div class="container">
         <div class="carousel-caption scouts">
           <h1 class="scouts">Friends and Fun!</h1>
-          <p class="lead scouts">The Beaver Scout Motto</p>
+          <p class="lead scouts">That's our Motto</p>
           <a class="btn btn-large btn-primary" href="beavers">Join the beavers...</a>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/cubs/Group.jpg" alt="">
+      <div class="container">
+        <div class="carousel-caption scouts">
+          <h1 class="scouts">Friendship, Fun and Adventure...</h1>
+          <p class="lead scouts">We're Baughurst Cub Scouts!</p>
+          <a class="btn btn-large btn-primary" href="cubs">Join the cubs...</a>
         </div>
       </div>
     </div>
