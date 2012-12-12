@@ -11,13 +11,18 @@ sharing: false
 
 <section class="span5">
 
-#### Baughurst Scout & Guide Group  
-The Den,   
-Ash Lane,  
-Baughurst,  
-RG26 5PW  
-
-Email: [Graham Brooks](mailto:graham.brooks7@btinternet.com) 
+<address>
+  <strong>Baughurst Scout & Guide Group</strong><br>
+  The Den<br> 
+  Ash Lane<br>
+  Baughurst<br>
+  RG26 5PW
+</address>
+ 
+<address>
+  <strong>Graham Brooks</strong> (Group Scout Leader)
+  <a href="mailto:#">graham.brooks7@btinternet.com</a>
+</address>
 
 <img src="/images/BaughurstDen.jpg" class="img-rounded">
 
