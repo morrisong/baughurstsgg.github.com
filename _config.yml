@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://baughurstsgg.github.com/testing
+url: http://baughurstsgg.github.com/
 title: Baughurst Scout and Guide Group
 subtitle: Testing the octopress publishing framework
 author: Baughurst Scout and Guide Group
-simple_search: http://google.com/search
+simple_search: false
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

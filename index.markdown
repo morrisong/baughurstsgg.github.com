@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: page
+title: "Baughurst Scout & Guide Group"
+sidebar: false
+comments: false
+sharing: false
 ---
 
 <!-- Carousel

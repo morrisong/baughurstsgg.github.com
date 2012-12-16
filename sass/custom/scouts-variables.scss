@@ -1,0 +1,23 @@
+$scoutFontFamily:       	Verdana, Arial, sans-serif;
+$scoutHeadingFontFamily:	TheSerif, $scoutFontFamily; 
+$scoutPurple: 				rgb(77,33,119);
+$scoutGreen: 				rgb(132,164,11);
+
+$baseFontFamily:        $scoutFontFamily;
+
+
+$headingsFontFamily:    $scoutHeadingFontFamily; // empty to use BS default, $baseFontFamily
+$headingsFontWeight:    bold;    // instead of browser default, bold
+$headingsColor:         $scoutPurple; // empty to use BS default, $textColor
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+$linkColor:  $scoutPurple;
+$navbarBackground:                darken(adjust-hue($scoutPurple, -10), 3%) !default;
+$navbarBackgroundHighlight:       $scoutPurple !default;
+
+
+@import "common";
+@import "../bootstrap/bootstrap";
