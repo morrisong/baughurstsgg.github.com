@@ -41,14 +41,6 @@ single: true
 </article>
 {% unless page.sidebar == false %}
 <aside class="sidebar-nav span3">
-  {% if site.post_asides.size %}
-    {% for aside in site.post_asides %}
-      {include aside} 
-    {% endfor %}
-  {% else %}
-    {% for aside in default_asides %}
-      {include aside} 
-    {% endfor %}
-  {% endif %}
+  {% include all_asides.html %}
 </aside>
 {% endunless %}
