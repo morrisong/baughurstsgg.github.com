@@ -35,14 +35,6 @@ layout: default
 </article>
 {% unless page.sidebar == false %}
 <aside class="sidebar-nav span3">
-  {% if site.page_asides.size %}
-    {% for aside in site.page_asides %}
-      {include aside} 
-    {% endfor %}
-  {% else %}
-    {% for aside in default_asides %}
-      {include aside} 
-    {% endfor %}
-  {% endif %}
+  {% include all_asides.html %}
 </aside>
 {% endunless %}
