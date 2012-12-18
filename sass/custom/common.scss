@@ -46,18 +46,52 @@ $navbarSearchBorder:              darken($navbarSearchBackground, 30%) !default;
 $navbarSearchPlaceholderColor:    #ccc !default;
 $navbarBrandColor:                $navbarLinkColor !default;
 
-.brand
+//Nav logos
+
+$logo-height: 30px;
+$brand-height: 50px;
+$group-brand-height: 80px;
+$section-brand-padding: $group-brand-height - $brand-height;
+$logo-padding: $group-brand-height - $logo-height;
+
+.group-brand
 {
-  background: white url(/images/joint-logo.png);
-  background-size: auto 75px;
+  background: url(/images/Baughurst.jpg);
+  background-size: auto $group-brand-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  height: 70px;
-  width: 100%;
+  width: $brand-height;
+  height: $group-brand-height;
+  margin-left: 10px;
+  margin-right: 12px;
+  margin-top: 10px;
 }
 
-$logo-height: 30px;
+.scouts-brand
+{
+  background: url(/images/Scout_Logo_transparent.gif);
+  background-size: auto $brand-height;
+  background-repeat: no-repeat;
+  text-indent: -9999px;  /* Send text out of viewable area */
+  overflow:hidden;  /* make sure our size is respected */
+  width: $brand-height * 1.4;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
+}
+
+.guides-brand
+{
+  background: url(/images/guides/guides-brand.png);
+  background-size: auto $brand-height;
+  background-repeat: no-repeat;
+  text-indent: -9999px;  /* Send text out of viewable area */
+  overflow:hidden;  /* make sure our size is respected */
+  width: $brand-height;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
+}
+
 
 .brownie-logo
 {
@@ -66,9 +100,9 @@ $logo-height: 30px;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 3.5;
+  width: $logo-height * 3.3;
+  margin-top: $logo-padding;
 }
-
 
 .beavers-logo
 {
@@ -78,6 +112,7 @@ $logo-height: 30px;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3;
+  margin-top: $logo-padding;
 }
 
 
@@ -89,6 +124,7 @@ $logo-height: 30px;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 2.4;
+  margin-top: $logo-padding;
 }
 
 
@@ -99,7 +135,8 @@ $logo-height: 30px;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 3.5;
+  width: $logo-height * 3;
+  margin-top: $logo-padding;
 }
 
 
@@ -110,7 +147,8 @@ $logo-height: 30px;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 3.5;
+  width: $logo-height * 2.9;
+  margin-top: $logo-padding;
 }
 
 
@@ -122,4 +160,5 @@ $logo-height: 30px;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3.5;
+  margin-top: $logo-padding;
 }

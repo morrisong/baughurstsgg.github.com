@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Baughurst Scout & Guide Group"
 sidebar: false
 comments: false
 sharing: false
@@ -15,7 +14,8 @@ sharing: false
       <div class="container">
         <div class="carousel-caption scouts">
           <h1 class="alt-scouts">Scouts</h1>
-          <h1 >Only go camping?</h1>
+          <h1 >Only go</h1>
+          <h1 >camping?</h1>
           <p class="lead alt-scouts">Think again...</p>
           <a class="btn btn-large btn-primary" href="scouts">Join the adventure...</a>
         </div>
