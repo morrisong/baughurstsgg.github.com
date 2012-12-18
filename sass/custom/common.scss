@@ -49,7 +49,7 @@ $navbarBrandColor:                $navbarLinkColor !default;
 //Nav logos
 
 $logo-height: 30px;
-$brand-height: 50px;
+$brand-height: 60px;
 $group-brand-height: 80px;
 $section-brand-padding: $group-brand-height - $brand-height;
 $logo-padding: $group-brand-height - $logo-height;
@@ -63,9 +63,13 @@ $logo-padding: $group-brand-height - $logo-height;
   overflow:hidden;  /* make sure our size is respected */
   width: $brand-height;
   height: $group-brand-height;
-  margin-left: 10px;
-  margin-right: 12px;
   margin-top: 10px;
+}
+
+.centered {
+    width: 99%;
+    float: right !important;
+    margin: 0px auto !important;
 }
 
 .scouts-brand
@@ -111,7 +115,7 @@ $logo-padding: $group-brand-height - $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 3;
+  width: $logo-height * 2.8;
   margin-top: $logo-padding;
 }
 
