@@ -46,6 +46,25 @@ $navbarSearchBorder:              darken($navbarSearchBackground, 30%) !default;
 $navbarSearchPlaceholderColor:    #ccc !default;
 $navbarBrandColor:                $navbarLinkColor !default;
 
+
+// SCOUT BRANDING
+$scoutFontFamily:         Verdana, Arial, sans-serif;
+$scoutHeadingFontFamily:  TheSerif, $scoutFontFamily; 
+$scoutPurple:             rgb(77,33,119);
+$scoutGreen:              rgb(132,164,11);
+//
+// CUBS BRANDING
+$cubsFontFamily:         Verdana, Arial, sans-serif;
+$cubsHeadingFontFamily:  TheSerif, $scoutFontFamily; 
+$cubsGreen:              #66bc29;
+$cubsDarkGreen:          #004d48;
+$cubsDarkPurple:         #502d7f;
+
+$cubsLightPurple:        #9325b2;
+$cubsRed:                #cf0360;
+$cubsYellow:             #ffcb00;
+//
+
 //Nav logos
 
 $logo-height: 30px;
