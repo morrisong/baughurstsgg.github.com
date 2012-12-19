@@ -53,9 +53,10 @@ $scoutHeadingFontFamily:  TheSerif, $scoutFontFamily;
 $scoutPurple:             rgb(77,33,119);
 $scoutGreen:              rgb(132,164,11);
 //
+
 // CUBS BRANDING
 $cubsFontFamily:         Verdana, Arial, sans-serif;
-$cubsHeadingFontFamily:  TheSerif, $scoutFontFamily; 
+$cubsHeadingFontFamily:  $scoutFontFamily; 
 $cubsGreen:              #66bc29;
 $cubsDarkGreen:          #004d48;
 $cubsDarkPurple:         #502d7f;
@@ -64,6 +65,24 @@ $cubsLightPurple:        #9325b2;
 $cubsRed:                #cf0360;
 $cubsYellow:             #ffcb00;
 //
+
+// BEAVERS BRANDING
+$beaverFontFamily:        Verdana, Arial, sans-serif;
+$beaverHeadingFontFamily: $scoutFontFamily; 
+
+$beaverBlue:            #00afdb;
+$beaverRed:             #e03228;
+
+$beaverPurple:          #a54599;
+$beaverSandy:           #d59f0f;
+$beaverBrown:           #7a1715;
+$beaverPink:            #1b195a;
+$beaverYellow:          #fff200;
+//
+
+
+
+
 
 //Nav logos
 
@@ -129,13 +148,13 @@ $logo-padding: $group-brand-height - $logo-height;
 
 .beavers-logo
 {
-  background: url(/images/beavers/beavers-logo-no-circle.jpg);
-  background-size: auto $logo-height;
+  background: url(/images/beavers/beavers-logo.gif);
+  background-size: auto $logo-height * 1.35;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 2.8;
-  margin-top: $logo-padding;
+  width: $logo-height * 1.7;
+  margin-top: $logo-padding * 0.95;
 }
 
 

@@ -1,4 +1,39 @@
-
-
 @import "common";
+
+$baseFontFamily:        $beaverFontFamily;
+$headingsFontFamily:    $beaverHeadingFontFamily; 
+$headingsFontWeight:    bold;
+$headingsColor:         $beaverBlue;
+$baseFontSize:          14px;
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+
+$linkColor:  $beaverPurple;
+$linkColorHover: $beaverRed;
+
+
 @import "../bootstrap/bootstrap";
+
+
+h2{ color: $beaverPurple; }
+h3{ color: $beaverRed; }
+
+// Nav headers (for dropdowns and lists)
+.nav .nav-header {
+  color: $beaverPurple;
+ }
+// Blockquotes
+blockquote {
+  border-left: 5px solid $beaverPurple;
+  small {
+    color: $beaverPurple;
+  }
+
+  // Float right with text-align: right
+  &.pull-right {
+    border-right: 5px solid $beaverPurple;
+  }
+}
