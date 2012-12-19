@@ -188,3 +188,27 @@ h1.alt-scouts{
 p.alt-scouts{
 	font-family: 'Over the Rainbow', cursive;
 }
+
+.cubs {
+  font: $cubsFontFamily;
+  h1, > h1 {
+    font: $cubsHeadingFontFamily;
+    color: $cubsDarkGreen;
+  }
+  p, > p {
+    font: $cubsFontFamily;
+    color: $cubsDarkPurple;
+  }
+}
+
+.cubs-red{
+    color: $cubsRed;
+}
+
+.cubs-yellow{
+    color: $cubsYellow;
+}
+
+.cubs-green {
+  color: $cubsGreen
+}
