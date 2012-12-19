@@ -54,7 +54,7 @@ sharing: false
 ================================================== -->
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
-<section class="container marketing">
+<section class="container">
 
   <!-- Three columns of text below the carousel -->
 <section class="row">
@@ -85,7 +85,7 @@ The rainbow, brownie and guide groups welcome girls from 5 to 14 years.
 
 Support us for **FREE** when you do your shopping on the web!
 This is **absolutely FREE for you** but raises much needed funds for the group.  
-<a class="btn" href="easy-fundraising">Find out more &raquo;</a>
+<a class="btn btn-info" href="easy-fundraising">Find out more &raquo;</a>
   
 </article><!-- /.span4 -->
 </section><!-- /.row -->
@@ -112,11 +112,6 @@ Activities included a rope course, grass-sledging, archery, fire-lighting, and w
 We had a longer wait than planned for our camp.  Twice we were forced to cancel the event as torrential rain swamped the camp site.  Doggedly we waited out the terrible weather of 2012.  Third time lucky!</p>
 </article>
 
-<hr class="featurette-divider">
-
-
-
-<hr class="featurette-divider">
 
 <!-- /END THE FEATURETTES -->
 
