@@ -35,9 +35,11 @@ sharing: false
       <img src="images/cubs/Group.jpg" alt="">
       <div class="container">
         <div class="carousel-caption cubs">
-          <h1 class="cubs">Friendship, Fun and Adventure...</h1>
-          <p class="lead cubs">We're Baughurst Cub Scouts!</p>
-          <a class="btn btn-large cubs-green" href="cubs">Join the cubs...</a>
+          <h1 class="cubs">Friendship,</h1><br> 
+          <h1><span class="cubs-yellow">Fun,</span></h1><br> 
+          <h1><span class="cubs-red">Adventure!</span></h1>
+          <p class="lead cubs">we're Baughurst Cub Scouts!</p>
+          <a class="btn btn-large btn-cubs-primary" href="cubs">Join the cubs...</a>
         </div>
       </div>
     </div>
