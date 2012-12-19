@@ -212,3 +212,13 @@ p.alt-scouts{
 .cubs-green {
   color: $cubsGreen
 }
+
+
+.btn-cubs-primary {
+  @include buttonBackground($cubsDarkPurple, $btnPrimaryBackgroundHighlight);
+  color: $cubsYellow
+}
+
+.btn-cubs-primary:hover {
+  color: $cubsGreen;
+}
