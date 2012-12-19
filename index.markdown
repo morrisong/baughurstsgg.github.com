@@ -17,17 +17,17 @@ sharing: false
           <h1 >Only go</h1>
           <h1 >camping?</h1>
           <p class="lead alt-scouts">Think again...</p>
-          <a class="btn btn-large btn-primary" href="scouts">Join the adventure...</a>
+          <a class="btn btn-large btn-primary" href="scouts">Join the adventure &raquo;</a>
         </div>
       </div>
     </div>
     <div class="item">
-      <img src="images/beavers/lots-of-beavers.jpg" alt="">
+      <img src="images/beavers/group.jpg" alt="">
       <div class="container">
-        <div class="carousel-caption scouts">
-          <h1 class="scouts">Friends and Fun!</h1>
-          <p class="lead scouts">That's our Motto</p>
-          <a class="btn btn-large btn-primary" href="beavers">Join the beavers...</a>
+        <div class="carousel-caption beavers">
+          <h1 class="beavers"><span class="beaver-brown">Friends</span> <span class="beaver-sandy">and</span> <span class="beaver-red">Fun!</span></h1>
+          <p class="lead beavers">That's our Motto</p>
+          <a class="btn btn-large btn-beavers-primary" href="beavers">Join the beavers &raquo;</a>
         </div>
       </div>
     </div>
@@ -39,7 +39,7 @@ sharing: false
           <h1><span class="cubs-yellow">Fun,</span></h1><br> 
           <h1><span class="cubs-red">Adventure!</span></h1>
           <p class="lead cubs">we're Baughurst Cub Scouts!</p>
-          <a class="btn btn-large btn-cubs-primary" href="cubs">Join the cubs...</a>
+          <a class="btn btn-large btn-cubs-primary" href="cubs">Join the cubs &raquo;</a>
         </div>
       </div>
     </div>

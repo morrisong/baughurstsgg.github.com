@@ -5,6 +5,8 @@ $grayDark:              #333 !default;
 $navbarBackground:                $grayDarker;
 $navbarBackgroundHighlight:       $grayDark;
 
+$baseFontSize:          14px;
+
 @import "scouts-variables";
 
     /* CUSTOMIZE THE NAVBAR
@@ -189,6 +191,7 @@ p.alt-scouts{
 	font-family: 'Over the Rainbow', cursive;
 }
 
+//Cubs  
 .cubs {
   font: $cubsFontFamily;
   h1, > h1 {
@@ -216,9 +219,55 @@ p.alt-scouts{
 
 .btn-cubs-primary {
   @include buttonBackground($cubsDarkPurple, $btnPrimaryBackgroundHighlight);
-  color: $cubsYellow
+  color: $white
 }
 
 .btn-cubs-primary:hover {
   color: $cubsGreen;
 }
+///End of cubs
+
+//Beavers
+.beavers {
+  font: $beaverFontFamily;
+  h1, > h1 {
+    font: $beaverHeadingFontFamily;
+    color: $beaverBlue;
+  }
+  p, > p {
+    font: $beaverFontFamily;
+    color: $beaverPurple;
+  }
+}
+
+.beaver-red{
+    color: $beaverRed;
+}
+
+.beaver-sandy{
+    color: $beaverSandy;
+}
+
+.beaver-brown{
+    color: $beaverBrown;
+}
+
+.beaver-yellow{
+    color: $beaverYellow;
+}
+
+.beaver-purple {
+  color: $beaverPurple
+}
+
+
+.btn-beavers-primary {
+  @include buttonBackground($beaverBlue, $beaverBlue);
+  color: $white
+}
+
+.btn-beavers-primary:hover {
+  color: $beaverYellow;
+}
+
+//End of beavers

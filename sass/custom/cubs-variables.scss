@@ -37,7 +37,3 @@ blockquote {
     border-right: 5px solid $cubsDarkPurple;
   }
 }
-
-.btn-cubs-primary {
-  @include buttonBackground($cubsDarkPurple, $btnPrimaryBackgroundHighlight);
-}
