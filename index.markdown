@@ -22,7 +22,7 @@ sharing: false
       </div>
     </div>
     <div class="item">
-      <img src="images/beavers/group.jpg" alt="">
+      <img src="images/beavers/Group.jpg" alt="">
       <div class="container">
         <div class="carousel-caption beavers">
           <h1 class="beavers"><span class="beaver-brown">Friends</span> <span class="beaver-sandy">and</span> <span class="beaver-red">Fun!</span></h1>
