@@ -218,12 +218,13 @@ p.alt-scouts{
 
 
 .btn-cubs-primary {
-  @include buttonBackground($cubsDarkPurple, $btnPrimaryBackgroundHighlight);
+  @include buttonBackground($cubsGreen, $cubsDarkGreen);
   color: $white
 }
 
 .btn-cubs-primary:hover {
-  color: $cubsGreen;
+  color: $cubsDarkPurple;
+  @include buttonBackground(lighten($cubsGreen, 10%), lighten($cubsDarkGreen, 10%));
 }
 ///End of cubs
 
@@ -262,7 +263,7 @@ p.alt-scouts{
 
 
 .btn-beavers-primary {
-  @include buttonBackground($beaverBlue, $beaverBlue);
+  @include buttonBackground($beaverBlue, darken($beaverBlue, 15%));
   color: $white
 }
 

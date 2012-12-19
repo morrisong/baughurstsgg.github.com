@@ -64,9 +64,9 @@ The beaver, cub and scout groups welcome both boys and girls from 6 to 14 years.
 
 The Baughurst scout group is part of the [Silchester District](http://www.silchester-scouts.org.uk), which is in turn part of the [Hampshire County](http://www.scouts-hants.org.uk).
 
-<a class="btn" href="scouts">Scouts &raquo;</a>
-<a class="btn" href="cubs">Cubs &raquo;</a>
-<a class="btn" href="beavers">Beavers &raquo;</a>
+<a class="btn btn-primary" href="scouts">Scouts &raquo;</a>
+<a class="btn btn-cubs-primary" href="cubs">Cubs &raquo;</a>
+<a class="btn btn-beavers-primary" href="beavers">Beavers &raquo;</a>
   </article><!-- /.span4 -->
   <article class="span4">
 
