@@ -3,8 +3,10 @@ layout: post
 title: "Cubs football success"
 date: 2012-03-25 11:00:00
 comments: true
-tags: [football, cubs]
-
+categories:
+  - football
+  - cubs
+  
 section: cubs
 author: Mary Robinson
 ---
