@@ -3,13 +3,13 @@
 $baseFontFamily:        $guideFontFamily;
 $headingsFontFamily:    $guideHeadingFontFamily;
 $headingsFontWeight:    bold; 
-$headingsColor:         darken($guidePink, 10%);
+$headingsColor:         $guideRaspberry;
 $baseFontSize:          14px;
 
 
 
-$linkColor:  $guidePink;
-$linkColorHover: darken($guidePink, 10%);
+$linkColor:  $guideRaspberry;
+$linkColorHover: darken($guideRaspberry, 10%);
 
 
 @import "../bootstrap/bootstrap";
@@ -17,17 +17,17 @@ $linkColorHover: darken($guidePink, 10%);
 
 // Nav headers (for dropdowns and lists)
 .nav .nav-header {
-  color: $guidePink;
+  color: $guideRaspberry;
  }
 // Blockquotes
 blockquote {
-  border-left: 5px solid $guidePink;
+  border-left: 5px solid $guideRaspberry;
   small {
-    color: $guidePink;
+    color: $guideRaspberry;
   }
 
   // Float right with text-align: right
   &.pull-right {
-    border-right: 5px solid $guidePink;
+    border-right: 5px solid $guideRaspberry;
   }
 }
