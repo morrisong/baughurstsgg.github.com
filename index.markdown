@@ -48,55 +48,11 @@ sharing: false
   <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div><!-- /.carousel -->
 
+<!-- ##########NEWS###########-->
+<hr class="span12 featurette-divider">
 
-
-<!-- Marketing messaging and featurettes
-================================================== -->
-<!-- Wrap the rest of the page in another container to center all the content. -->
-
-<section class="container">
-
-  <!-- Three columns of text below the carousel -->
-<section class="row">
-  <article class="span4">
-## Baughurst Scouts
-The beaver, cub and scout groups welcome both boys and girls from 6 to 14 years.
-
-The Baughurst scout group is part of the [Silchester District](http://www.silchester-scouts.org.uk), which is in turn part of the [Hampshire County](http://www.scouts-hants.org.uk).
-
-<a class="btn btn-primary" href="scouts">Scouts &raquo;</a>
-<a class="btn btn-cubs-primary" href="cubs">Cubs &raquo;</a>
-<a class="btn btn-beavers-primary" href="beavers">Beavers &raquo;</a>
-  </article><!-- /.span4 -->
-  <article class="span4">
-
-## Baughurst Guides
-
-The rainbow, brownie and guide groups welcome girls from 5 to 14 years.  
-
-<a class="btn" href="guides">Guides &raquo;</a>
-<a class="btn" href="brownies">Brownies &raquo;</a>
-<a class="btn" href="rainbows">Rainbows &raquo;</a>
-</article><!-- /.span4 -->
-<article class="span4">
-## Help us raise funds!
-<!-- Here's my badge to show support for Baughurst Scout and Guide Group. They raise funds with easyfundraising.org.uk -->
-<a href="http://www.easyfundraising.org.uk/causes/baughurstsgg/?badge=mycause_large_DF8KIW_1WKLJR.png&amp;u=1WKLJR&amp;urp=1WKLJR" class="easyfundraisingBadge"><img src="http://www.easyfundraising.org.uk/images/thanks-for-badging/mycause_large_DF8KIW_1WKLJR.png" border="0" alt="easyfundraising.org.uk"></a>
-
-Support us for **FREE** when you do your shopping on the web!
-This is **absolutely FREE for you** but raises much needed funds for the group.  
-<a class="btn btn-info" href="easy-fundraising">Find out more &raquo;</a>
-  
-</article><!-- /.span4 -->
-</section><!-- /.row -->
-
-
-<!-- START THE FEATURETTES -->
-
-<hr class="featurette-divider">
-
-<article class="featurette">
-  <img class="featurette-image pull-right" src="images/group-camp.jpg">
+<section class="rowFluid">
+<article class="span8">
   <h2 class="featurette-heading">Joint camp <span class="muted"> celebrates our 20th anniversary!</span></h2>
   <p class="lead">All the sections gathered for a weekend of fun!</p>
 
@@ -112,6 +68,51 @@ Activities included a rope course, grass-sledging, archery, fire-lighting, and w
 We had a longer wait than planned for our camp.  Twice we were forced to cancel the event as torrential rain swamped the camp site.  Doggedly we waited out the terrible weather of 2012.  Third time lucky!</p>
 </article>
 
+<section class="span4">
+  <img class="pull-right" src="images/group-camp.jpg">
+</section>
+</section>
+<!-- ########## END OF NEWS ###########-->
+
+<hr class="span12 featurette-divider">
+
+  <!-- Three columns of text below the carousel -->
+<section class="rowFluid">
+  <article class="span4 guides">
+
+## Baughurst Guides
+
+The rainbow, brownie and guide groups welcome girls from 5 to 14 years.  
+
+<a class="btn btn-guides-primary" href="guides">Guides &raquo;</a>
+<a class="btn btn-brownies-primary" href="brownies">Brownies &raquo;</a>
+<a class="btn btn-guides-alt" href="rainbows">Rainbows &raquo;</a>
+</article><!-- /.span4 -->
+
+<article class="span4">
+<!-- Here's my badge to show support for Baughurst Scout and Guide Group. They raise funds with easyfundraising.org.uk -->
+<a href="http://www.easyfundraising.org.uk/causes/baughurstsgg/?badge=mycause_large_DF8KIW_1WKLJR.png&amp;u=1WKLJR&amp;urp=1WKLJR" class="easyfundraisingBadge"><img src="http://www.easyfundraising.org.uk/images/thanks-for-badging/mycause_large_DF8KIW_1WKLJR.png" border="0" alt="easyfundraising.org.uk"></a>
+
+Support us for **FREE** when you do your shopping on the web!
+This is **absolutely FREE for you** but raises much needed funds for the group.  
+<a class="btn btn-info" href="easy-fundraising">Find out more &raquo;</a>
+  
+</article><!-- /.span4 -->
+  <article class="span4">
+## Baughurst Scouts
+The beaver, cub and scout groups welcome both boys and girls from 6 to 14 years.
+
+The Baughurst scout group is part of the [Silchester District](http://www.silchester-scouts.org.uk), which is in turn part of the [Hampshire County](http://www.scouts-hants.org.uk).
+
+<a class="btn btn-primary" href="scouts">Scouts &raquo;</a>
+<a class="btn btn-cubs-primary" href="cubs">Cubs &raquo;</a>
+<a class="btn btn-beavers-primary" href="beavers">Beavers &raquo;</a>
+  </article><!-- /.span4 -->
+  
+</section><!-- /.row -->
+
+
+
 
 <!-- /END THE FEATURETTES -->
 
@@ -123,8 +124,6 @@ We had a longer wait than planned for our camp.  Twice we were forced to cancel 
     })
   }(window.jQuery)
 </script>
-
-</section>  
 
 
 

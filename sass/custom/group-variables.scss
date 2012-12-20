@@ -11,10 +11,10 @@ $baseFontSize:          14px;
 
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
-$carousel-height: 350px;
+$carousel-height: 250px;
     /* Carousel base class */
     .carousel {
-      margin-bottom: 60px;
+      margin-bottom: 20px;
     }
 
     .carousel .container {
@@ -27,7 +27,6 @@ $carousel-height: 350px;
     .carousel-control {
       background-color: transparent;
       border: 0;
-      //font-size: 120px;
       margin-top: 0;
       color: $navbarBackground;
       text-shadow: 0 1px 1px rgba(0,0,0,.4);
@@ -48,7 +47,7 @@ $carousel-height: 350px;
       position: static;
       max-width: 550px;
       padding: 0 80px;
-      margin-bottom: 100px;
+      margin-bottom: 20px;
     }
     .carousel-caption h1,
     .carousel-caption .lead {
@@ -66,7 +65,7 @@ $carousel-height: 350px;
     ------------------------- */
 
     .featurette-divider {
-      margin: 80px 0; /* Space out the Bootstrap <hr> more */
+      margin: 10px 0; /* Space out the Bootstrap <hr> more */
     }
     .featurette {
       padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
@@ -86,7 +85,7 @@ $carousel-height: 350px;
 
     /* Thin out the marketing headings */
     .featurette-heading {
-      font-size: 50px;
+      font-size: 40px;
       font-weight: 300;
       line-height: 1;
       letter-spacing: -1px;
@@ -272,3 +271,58 @@ p.alt-scouts{
 }
 
 //End of beavers
+
+//Guides
+.guides {
+  font: $guideFontFamily;
+  h1, > h1 {
+    font: $guideHeadingFontFamily;
+    color: $guideBlue;
+  }
+  h2, > h2 {
+    font: $guideHeadingFontFamily;
+    color: $guideRaspberry;
+  }
+  p, > p {
+    font: $guideFontFamily;
+    color: darken($guideBlue, 20%);
+  }
+}
+
+.guide-raspberry{
+    color: $guideRaspberry;
+}
+
+.guide-blue{
+    color: $guideBlue;
+}
+
+.btn-guides-primary {
+  @include buttonBackground($guideBlue, darken($guideBlue, 5%));
+  color: $white;
+  &:hover {
+    color: $guideRaspberry;
+  }
+}
+
+
+.btn-guides-alt {
+  @include buttonBackground($guideRaspberry, darken($guideRaspberry, 5%));
+  color: $white;
+}
+
+//End of guides
+
+//Brownies
+
+
+.btn-brownies-primary {
+  @include buttonBackground($beaverBrown, darken($beaverBrown, 5%));
+  color: $white;
+  &:hover {
+    color: $beaverYellow;
+  }
+}
+
+//End of guides
+//
