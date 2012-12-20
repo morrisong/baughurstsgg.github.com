@@ -49,7 +49,7 @@ sharing: false
 </div><!-- /.carousel -->
 
 <!-- ##########NEWS###########-->
-<hr class="span12 featurette-divider">
+<section class="rowFluid"><hr class="span12 featurette-divider"></section>
 
 <section class="rowFluid">
 <article class="span8">
@@ -74,7 +74,7 @@ We had a longer wait than planned for our camp.  Twice we were forced to cancel 
 </section>
 <!-- ########## END OF NEWS ###########-->
 
-<hr class="span12 featurette-divider">
+<section class="rowFluid"><hr class="span12 featurette-divider"></section>
 
   <!-- Three columns of text below the carousel -->
 <section class="rowFluid">
