@@ -95,6 +95,7 @@ The rainbow, brownie and guide groups welcome girls from 5 to 14 years.
 
 Support us for **FREE** when you do your shopping on the web!
 This is **absolutely FREE for you** but raises much needed funds for the group.  
+
 <a class="btn btn-info" href="easy-fundraising">Find out more &raquo;</a>
   
 </article><!-- /.span4 -->
