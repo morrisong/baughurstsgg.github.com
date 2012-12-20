@@ -1,6 +1,21 @@
+<style>
+
+@media (min-width: 980px) {
+    .pull-center {
+        text-align: center;
+    }
+    .pull-center > .nav {
+        float:none;
+        display:inline-block;
+        *display: inline; 
+        *zoom: 1;
+    }
+}
+</style>
+
 <div class="navbar">
       
-  <div class="navbar-inner">
+  <div class="navbar-inner pull-center">
     
     <div class="container">
       <!--<a class="brand" href="{{ root_url }}/">{{ site.title }}</a>-->
@@ -12,7 +27,7 @@
       </a>
   
       
-      <div class="nav-collapse">
+      <div class="nav-collapse pull-center">
         {% include custom/navigation.html %}
 
         <!-- TODO - move rss to aside-->

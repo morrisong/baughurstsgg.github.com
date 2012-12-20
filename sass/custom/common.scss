@@ -29,7 +29,7 @@ $purple:                #7a43b6 !default;
 
 // Navbar
 // -------------------------
-$navbarHeight:                    40px !default;
+$navbarHeight:                    40px;
 $navbarBackground:                $white;
 $navbarBackgroundHighlight:       $white;
 
@@ -45,6 +45,8 @@ $navbarSearchBackgroundFocus:     $white !default;
 $navbarSearchBorder:              darken($navbarSearchBackground, 30%) !default;
 $navbarSearchPlaceholderColor:    #ccc !default;
 $navbarBrandColor:                $navbarLinkColor !default;
+
+
 
 
 // SCOUT BRANDING
@@ -93,10 +95,10 @@ $guideBlue:               rgb(41, 132, 151);
 //Nav logos
 
 $logo-height: 30px;
-$brand-height: 60px;
+$brand-height: 66px;
 $group-brand-height: 80px;
 $section-brand-padding: $group-brand-height - $brand-height;
-$logo-padding: $group-brand-height - $logo-height;
+$logo-padding: $group-brand-height - $logo-height - 10px;
 
 .group-brand
 {
@@ -160,7 +162,7 @@ $logo-padding: $group-brand-height - $logo-height;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 1.7;
-  margin-top: $logo-padding * 0.95;
+  margin-top: $logo-padding * 0.90;
 }
 
 
@@ -209,4 +211,16 @@ $logo-padding: $group-brand-height - $logo-height;
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3.5;
   margin-top: $logo-padding;
+}
+
+@media (min-width: 980px) {
+    .pull-center {
+        text-align: center;
+    }
+    .pull-center > .nav {
+        float:none;
+        display:inline-block;
+        *display: inline; 
+        *zoom: 1;
+    }
 }
