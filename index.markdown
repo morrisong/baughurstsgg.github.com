@@ -9,7 +9,7 @@ sharing: false
 ================================================== -->
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
-    <div class="item active">
+    <div class="item">
       <img src="images/scouts/scouts-karting.jpg" alt="">
       <div class="container">
         <div class="carousel-caption scouts">
@@ -31,7 +31,7 @@ sharing: false
         </div>
       </div>
     </div>
-    <div class="item">
+    <div class="item active">
       <img src="images/cubs/Group.jpg" alt="">
       <div class="container">
         <div class="carousel-caption cubs">
