@@ -96,20 +96,21 @@ $guideBlue:               rgb(41, 132, 151);
 
 $logo-height: 30px;
 $brand-height: 66px;
-$group-brand-height: 80px;
+$group-brand-height: 84px;
 $section-brand-padding: $group-brand-height - $brand-height;
 $logo-padding: $group-brand-height - $logo-height - 10px;
 
 .group-brand
 {
-  background: url(/images/Baughurst.jpg);
-  background-size: auto $group-brand-height;
+  background: url(/images/baughurst-banner.png);
+  //background-size: auto $group-brand-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $brand-height;
+  width: 67px;
   height: $group-brand-height;
   margin-top: 10px;
+  padding: 0 !important;
 }
 
 .centered {
@@ -120,8 +121,8 @@ $logo-padding: $group-brand-height - $logo-height - 10px;
 
 .scouts-brand
 {
-  background: url(/images/Scout_Logo_transparent.gif);
-  background-size: auto $brand-height;
+  background: url(/images/scouts-group-banner.png);
+  //background-size: auto $brand-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
@@ -132,8 +133,8 @@ $logo-padding: $group-brand-height - $logo-height - 10px;
 
 .guides-brand
 {
-  background: url(/images/guides/guides-brand.png);
-  background-size: auto $brand-height;
+  background: url(/images/guides-group-banner.png);
+  //background-size: auto $brand-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
@@ -145,72 +146,78 @@ $logo-padding: $group-brand-height - $logo-height - 10px;
 
 .brownie-logo
 {
-  background: url(/images/brownies/brownieslogo.gif);
-  background-size: auto $logo-height;
+  background: url(/images/brownies-banner.png);
+  //background-size: auto $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3.3;
-  margin-top: $logo-padding;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 .beavers-logo
 {
-  background: url(/images/beavers/beavers-logo.gif);
-  background-size: auto $logo-height * 1.35;
+  background: url(/images/beavers-banner.png);
+  //background-size: auto $logo-height * 1.35;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 1.7;
-  margin-top: $logo-padding * 0.90;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 
 .cubs-logo
 {
-  background: url(/images/cubs/logo.jpg);
-  background-size: auto $logo-height;
+  background: url(/images/cubs-banner.png);
+  //background-size: auto $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 2.4;
-  margin-top: $logo-padding;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 
 .guides-logo
 {
-  background: url(/images/guides/guideslogo.gif);
-  background-size: auto $logo-height;
+  background: url(/images/guides-banner.png);
+  //background-size: auto $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3;
-  margin-top: $logo-padding;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 
 .rainbows-logo
 {
-  background: url(/images/rainbows/rainbowslogo.gif);
-  background-size: auto $logo-height;
+  background: url(/images/rainbows-banner.png);
+  //background-size: auto $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
-  width: $logo-height * 2.9;
-  margin-top: $logo-padding;
+  width: $logo-height * 2.5;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 
 .scouts-logo
 {
-  background: url(/images/scouts/scoutslogo.jpg);
-  background-size: auto $logo-height;
+  background: url(/images/scouts-banner.png);
+  //background-size: auto $logo-height;
   background-repeat: no-repeat;
   text-indent: -9999px;  /* Send text out of viewable area */
   overflow:hidden;  /* make sure our size is respected */
   width: $logo-height * 3.5;
-  margin-top: $logo-padding;
+  height: $brand-height;
+  margin-top: $section-brand-padding;
 }
 
 @media (min-width: 980px) {
