@@ -77,40 +77,41 @@ We had a longer wait than planned for our camp.  Twice we were forced to cancel 
 <section class="rowFluid"><hr class="span12 featurette-divider"></section>
 
   <!-- Three columns of text below the carousel -->
-<section class="rowFluid">
-  <article class="span4 guides">
+<div class="rowFluid">
+  <div class="span4 guides">
 
-## Baughurst Guides
-
+    <h2>Baughurst Guides</h2>
+<p>
 The rainbow, brownie and guide groups welcome girls from 5 to 14 years.  
-
+</p>
 <a class="btn btn-guides-primary" href="guides">Guides &raquo;</a>
 <a class="btn btn-brownies-primary" href="brownies">Brownies &raquo;</a>
 <a class="btn btn-guides-alt" href="rainbows">Rainbows &raquo;</a>
-</article><!-- /.span4 -->
+</div><!-- /.span4 -->
 
-<article class="span4">
+<div class="span4">
 <!-- Here's my badge to show support for Baughurst Scout and Guide Group. They raise funds with easyfundraising.org.uk -->
 <a href="http://www.easyfundraising.org.uk/causes/baughurstsgg/?badge=mycause_large_DF8KIW_1WKLJR.png&amp;u=1WKLJR&amp;urp=1WKLJR" class="easyfundraisingBadge"><img src="http://www.easyfundraising.org.uk/images/thanks-for-badging/mycause_large_DF8KIW_1WKLJR.png" border="0" alt="easyfundraising.org.uk"></a>
-
-Support us for **FREE** when you do your shopping on the web!
-This is **absolutely FREE for you** but raises much needed funds for the group.  
-
+<p>
+Support us for <strong>FREE</strong> when you do your shopping on the web!
+This is <strong>absolutely FREE for you</strong> but raises much needed funds for the group.  
+</p>
 <a class="btn btn-info" href="easy-fundraising">Find out more &raquo;</a>
   
-</article><!-- /.span4 -->
-  <article class="span4">
-## Baughurst Scouts
+</div><!-- /.span4 -->
+  <div class="span4">
+   <h2>Baughurst Scouts</h2>
+   <p>
 The beaver, cub and scout groups welcome both boys and girls from 6 to 14 years.
-
-The Baughurst scout group is part of the [Silchester District](http://www.silchester-scouts.org.uk), which is in turn part of the [Hampshire County](http://www.scouts-hants.org.uk).
-
+</p><p>
+The Baughurst scout group is part of the <a href="http://www.silchester-scouts.org.uk">Silchester District</a>, which is in turn part of the <a href="http://www.scouts-hants.org.uk">Hampshire County</a>.
+</p>
 <a class="btn btn-primary" href="scouts">Scouts &raquo;</a>
 <a class="btn btn-cubs-primary" href="cubs">Cubs &raquo;</a>
 <a class="btn btn-beavers-primary" href="beavers">Beavers &raquo;</a>
-  </article><!-- /.span4 -->
+  </div><!-- /.span4 -->
   
-</section><!-- /.row -->
+</div><!-- /.row -->
 
 
 

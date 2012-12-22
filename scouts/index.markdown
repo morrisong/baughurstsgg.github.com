@@ -7,15 +7,16 @@ sharing: false
 
 ---
 
-<section class="row-fluid"><section class="span6">
+<div class="row-fluid"><div class="span6">
 
-![Join the adventure!](/images/scouts/join-the-adventure.jpg)
+<img src="/images/scouts/join-the-adventure.jpg"/>
 
-</section><article class="span6">
-
+</div><div class="span6">
+<p>
 Baughurst scouts meet every Friday from 7:30pm to 9pm
-
+</p><p>
 Girls and boys between 10 and 14&frac12; can become scouts.  
-
-Please contact [Graham Brooks](mailto:graham.brooks7@btinternet.com), our group scout leader if you would like to join in!
-</article></section>
+</p><p>
+Please contact <a href="mailto:graham.brooks7@btinternet.com">Graham Brooks</a>, our group scout leader if you would like to join in!
+</p>
+</div></div>
