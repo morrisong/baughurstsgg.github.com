@@ -5,6 +5,7 @@ $baseFontFamily:        $scoutFontFamily;
 $headingsFontFamily:    $scoutHeadingFontFamily; // empty to use BS default, $baseFontFamily
 $headingsFontWeight:    bold;    // instead of browser default, bold
 $headingsColor:         $scoutPurple; // empty to use BS default, $textColor
+$baseFontSize:          14px;
 
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;

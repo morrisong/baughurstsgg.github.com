@@ -18,7 +18,7 @@
 }
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: $grayLighter;
+  background-color: $green;
 }
 
 // Redeclare pull classes because of specifity
@@ -33,7 +33,7 @@
   font-size: 11px;
   font-weight: bold;
   line-height: $baseLineHeight;
-  color: $grayLight;
+  color: $red;
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
   text-transform: uppercase;
 }
@@ -236,7 +236,7 @@
 .nav-pills .open .dropdown-toggle,
 .nav > li.dropdown.open.active > a:hover {
   color: $white;
-  background-color: $grayLight;
+  background-color: $pink;
   border-color: $grayLight;
 }
 .nav li.dropdown.open .caret,
